@@ -1,3 +1,3 @@
-# @cxe/json
+# @cxe/ui
 
 
